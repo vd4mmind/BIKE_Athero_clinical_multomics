@@ -1,6 +1,14 @@
 # BIKE_Athero
 This repository contains analysis scripts for BIKE Atherosclerosis. 
 
+Authors: Vivek Das<sup>1</sup>, Xiang Zhang <sup>2</sup>, Djordje Djordjevic <sup>1</sup>, Otto Bergman <sup>2</sup>, Sampath Narayanan <sup>2</sup>, Dmitry Shungin <sup>1</sup>, Melody Chemaly <sup>2</sup>, Glykeria Karadimou <sup>2</sup>, Sofija Vuckovic <sup>2</sup>, Inika Prasad <sup>2</sup>, Karin Conde Knape <sup>1</sup>, Natasha Barascuk Michaelsen <sup>1</sup>, Ulf Hedin <sup>2</sup>, Ljubica Matic <sup>2</sup>
+
+
+<sup>1</sup> Novo Nordisk A/S, Denmark
+
+<sup>2</sup> Karolinska Institute, Solna, Sweden
+
+
 This study is a collaboration of Novo Nordisk A/S and Vascular Surgery department of Karolinska Institute around Biobank of Karolinska Endarterectomies (BiKE) cohort. 
 
 For more information around the BIKE cohort follow: Wadén K, Hultgren R, Kotopouli MI, et al. Long Term Mortality Rate in Patients Treated with Carotid Endarterectomy. Eur J Vasc Endovasc Surg. 2023;65(6):778-786. doi:[10.1016/j.ejvs.2023.02.079](https://pubmed.ncbi.nlm.nih.gov/36871924/)
