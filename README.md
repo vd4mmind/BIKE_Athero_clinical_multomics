@@ -1,7 +1,7 @@
 # BIKE_Athero
 This repository contains analysis scripts for BIKE Atherosclerosis. 
 
-Authors: Vivek Das<sup>1</sup>, Xiang Zhang <sup>2</sup>, Djordje Djordjevic <sup>1</sup>, Otto Bergman <sup>2</sup>, Sampath Narayanan <sup>2</sup>, Dmitry Shungin <sup>1</sup>, Melody Chemaly <sup>2</sup>, Glykeria Karadimou <sup>2</sup>, Sofija Vuckovic <sup>2</sup>, Inika Prasad <sup>2</sup>, Karin Conde Knape <sup>1</sup>, Natasha Barascuk Michaelsen <sup>1</sup>, Ulf Hedin <sup>2</sup>, Ljubica Matic <sup>2</sup>
+Authors: Vivek Das<sup>1</sup>, Xiang Zhang <sup>2</sup>, Djordje Djordjevic <sup>1</sup>, Otto Bergman <sup>2</sup>, Sampath Narayanan <sup>2</sup>, Melody Chemaly <sup>2</sup>, Glykeria Karadimou <sup>2</sup>, Sofija Vuckovic <sup>2</sup>, Inika Prasad <sup>2</sup>, Karin Conde Knape <sup>1</sup>, Natasha Barascuk Michaelsen <sup>1</sup>, Ulf Hedin <sup>2</sup>, Ljubica Matic <sup>2</sup>
 
 
 <sup>1</sup> Novo Nordisk A/S, Denmark
