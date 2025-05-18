@@ -27,4 +27,4 @@ link: https://www.medrxiv.org/content/10.1101/2025.05.12.25327328v1
 
   
 
-![BIKE omics](https://github.com/user-attachments/assets/5cd3a936-971b-4881-97b7-c45ce6e0af5e)
+![BIKE omics](https://www.medrxiv.org/content/medrxiv/early/2025/05/13/2025.05.12.25327328/F1.large.jpg?width=800&height=600&carousel=1)
